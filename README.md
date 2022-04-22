@@ -35,7 +35,7 @@ Poorer countries can either avoid those sports, or channel only suitable athlete
 
 >- For Swimming (Male), it is unfortunately harder for less affluent countries to win a gold medal as from 2000 to 2016, 1832/2156 (~85%) of gold medals were won by countries with GDP Per Capita > 14970.
 Yet, what poorer countries can do to maximise their chances of getting a gold medal is to send athletes that are: 
-- Taller than 185cm
+>-- Taller than 185cm
 - Weigh less than 76.957 kg
 - Younger than 24 years old
 This can be derived from analysing the branching points of the model.
