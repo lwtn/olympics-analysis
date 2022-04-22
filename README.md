@@ -14,7 +14,7 @@ This Mini-Project for SC1015 looks into the Olympic Games from the [120 Years of
 >- Quick Note: Do not be mistaken by the variable names within the files. Notations such as "female_swim" or "male_swim" are not to be erroneously associated with the sport of swimming. Rather 'swim' is shorthand for 'sports with indicated medals'  
 
 
-## Contrubutors
+## Contributors
 - @lwtn - Data Extraction, Data Visualization
 - @sien551011 - SMOTE, Random Forest
 - @wenyang1608 - Data Cleaning, Data Merging
