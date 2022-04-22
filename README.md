@@ -11,6 +11,7 @@ This Mini-Project for SC1015 looks into the Olympic Games from the [120 Years of
 >- Compare medal count of countries, relationship between medal count and GDP
 4. SMOTE and Random Forest Classifier
 >- Dealing with class imbalance, predict medals based on chosen factors
+>- Quick Note: Do not be mistaken by the variable names within the file. Notations such as "female_swim" are not to be erroneously associated with the sport of swimming. Rather 'swim' is shorthand for 'sports with indicated medals'  
 
 
 ## Contrubutors
