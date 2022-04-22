@@ -25,10 +25,10 @@ This Mini-Project for SC1015 looks into the Olympic Games from the [120 Years of
 - Which medal will they win?
 
 ## Conclusion
-### Objective 1:
+### Objective 1: Is there a way to predict what medal a certain athlete would get in a particular sport before he/she even plays? 
 The models that have been derived from the train data set are successful when tested with both the “pseudo-test” and Test data sets.
 
-### Objective 2:
+### Objective 2: For every sport, is there a particular quality of an athlete that makes him/her more likely to win? 
 As can be seen from the classification tree models, and what was discussed earlier, many of these sports have GDP as a key predictor (often with higher GDP linked to higher chance of winning). 
 Poorer countries can either avoid those sports, or channel only suitable athletes into these sports to maximising winning
 
