@@ -9,7 +9,7 @@ This Mini-Project for SC1015 looks into the Olympic Games from the [120 Years of
 >- Filling in NULL values, merging dataset with GDP and Population
 3. [Medal Analysis and Visualization](olympic_medal_analysis.ipynb)
 >- Compare medal count of countries, relationship between medal count and GDP
-4. [SMOTE and Random Forest Classifier](Modelling Codes)
+4. [SMOTE and Random Forest Classifier](Modelling-Codes)
 >- Dealing with class imbalance, predict medals based on chosen factors
 >- Quick Note: Do not be mistaken by the variable names within the files. Variable names such as "female_swim" or "male_swim" are not to be erroneously associated with the sport of swimming. Rather 'swim' is shorthand for 'sports with indicated medals'  
 
