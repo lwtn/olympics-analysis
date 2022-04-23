@@ -40,5 +40,12 @@ Example: For Swimming (Male), it is unfortunately harder for less affluent count
   - Weigh less than 76.957 kg
   - Younger than 24 years old
   This can be derived from analysing the branching points of the model.
+  
+## Learning Points
+- Pivot Table from pandas
+- Merging Datasets from different sources
+- Handling imbalanced classification using SMOTE
+- Random Forest Classifier
+- Graphviz
 
 ## References
