@@ -5,11 +5,11 @@
 This Mini-Project for SC1015 looks into the Olympic Games from the [120 Years of Olympic History](https://www.kaggle.com/datasets/mysarahmadbhat/120-years-of-olympic-history) dataset. Together with [World GDP](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) and [World Population](https://data.worldbank.org/indicator/SP.POP.TOTL) datasets from The World Bank, we merged these datasets together to generate useful insights. The following is a brief preview of the project:
 1. [Data Exploration](olympic_eda.ipynb)
 >- Scoping the project, separating data by gender, relationship between variables
-2. Data Cleaning and Merging
+2. [Data Cleaning and Merging](merge_gdp_pop.ipynb)
 >- Filling in NULL values, merging dataset with GDP and Population
-3. Medal Analysis and Visualization
+3. [Medal Analysis and Visualization](olympic_medal_analysis.ipynb)
 >- Compare medal count of countries, relationship between medal count and GDP
-4. SMOTE and Random Forest Classifier
+4. [SMOTE and Random Forest Classifier]
 >- Dealing with class imbalance, predict medals based on chosen factors
 >- Quick Note: Do not be mistaken by the variable names within the files. Variable names such as "female_swim" or "male_swim" are not to be erroneously associated with the sport of swimming. Rather 'swim' is shorthand for 'sports with indicated medals'  
 
