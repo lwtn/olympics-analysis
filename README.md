@@ -49,7 +49,7 @@ Example: For Swimming (Male), it is unfortunately harder for less affluent count
 - Graphviz
 
 ## References
-https://www.machinelearningplus.com/pandas/pandas-pivot-table-in-python/
-https://www.analyticsvidhya.com/blog/2020/10/overcoming-class-imbalance-using-smote-techniques/
-https://www.datacamp.com/community/tutorials/random-forests-classifier-python
-https://www.codementor.io/@mgalarny/visualizing-decision-trees-with-python-scikit-learn-graphviz-matplotlib-154mszcto7
+https://www.machinelearningplus.com/pandas/pandas-pivot-table-in-python/<br />
+https://www.analyticsvidhya.com/blog/2020/10/overcoming-class-imbalance-using-smote-techniques/<br />
+https://www.datacamp.com/community/tutorials/random-forests-classifier-python<br />
+https://www.codementor.io/@mgalarny/visualizing-decision-trees-with-python-scikit-learn-graphviz-matplotlib-154mszcto7<br />
